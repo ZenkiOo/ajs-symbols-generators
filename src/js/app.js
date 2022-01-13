@@ -19,5 +19,4 @@ const bowman = new Bowman('Игорь', 'Bowman'),
 
 const team = new Team();
 team.addAll(bowman, swordsman, magician, daemon, undead, zombie);
-// for (let i of team) console.log(i);
-console.log(team.next());
+for (let i of team) console.log(i);
