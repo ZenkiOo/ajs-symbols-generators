@@ -1,1 +1,1 @@
-# ajs-symbols-generators
+# ajs-symbols-iterators
